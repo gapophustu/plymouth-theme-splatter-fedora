@@ -6,3 +6,4 @@ ModuleName=script
 [script]
 ImageDir=/usr/share/plymouth/themes/splatter-fedora
 ScriptFile=/usr/share/plymouth/themes/splatter-fedora/splatter.script
+

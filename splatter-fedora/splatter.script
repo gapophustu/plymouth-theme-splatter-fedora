@@ -1,7 +1,7 @@
 #----------------------------------------- Configuration --------------------------------
 stages[0] = 3; # Number of stages
 stages[1] = 58; # Number of splatters in stage 1
-stages[2] = 44; # Number of splatters in stage 2, you need to set this for all stages!
+stages[2] = 46; # Number of splatters in stage 2, you need to set this for all stages!
 stages[3] = 28;
 
 times[0] = 0; # Progress, at which splatters should start fading in
@@ -15,7 +15,7 @@ preload_offset = 0.05;
 
 opacity_increase = 0.5; # opacity increase during fade in
 
-num_res = 3; # number of reolutions available
+num_res = 5; # number of reolutions available
 
 max_size = 0.8; # Maximum ammount of height and width that should be used
 

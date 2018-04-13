@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Splatter Fedora Small
+Description=Splatter the Fedora logo on the screen.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/splatter-fedora-small
+ScriptFile=/usr/share/plymouth/themes/splatter-fedora-small/splatter-small.script
